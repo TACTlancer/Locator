@@ -1,0 +1,3 @@
+	function clicked(){
+		window.close();
+	}
